@@ -1,5 +1,5 @@
 ![logo](https://github.com/satishsalyal/satishsalyal/blob/main/Blue%20Branding%20Agency%20LinkedIn%20Career%20Cover%20Ph%20-%20Made%20with%20PosterMyWall.jpg)
-<h1 align="center">Hi 👋, I'm Satish Kummar</h1>
+<h1 align="center">Hi 👋, I'm Satish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <image align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif">

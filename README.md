@@ -1,4 +1,4 @@
-![logo](https://github.com/satishsalyal/satishsalyal/commit/099b33150b8af5a8fbb15a82e9300661ead665d6)
+![logo](https://github.com/satishsalyal/satishsalyal/blob/main/Blue%20Branding%20Agency%20LinkedIn%20Career%20Cover%20Ph%20-%20Made%20with%20PosterMyWall.jpg)
 <h1 align="center">Hi 👋, I'm Satish Kummar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
